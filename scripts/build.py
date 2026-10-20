@@ -530,7 +530,6 @@ def readme():
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=roxx990&style=flat-square&color={hexs(A_MID)}&label=Profile+views" alt="Profile views" />
 <a href="https://github.com/CoderZone"><img src="https://img.shields.io/badge/Working%20at-CoderZone-{hexs(A_MID)}?style=flat-square&labelColor=555" alt="CoderZone" /></a>
 <a href="https://www.linkedin.com/in/zuraiz-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-zuraiz--ahmad-{hexs(A_MID)}?style=flat-square&labelColor=555&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 

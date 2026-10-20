@@ -8,7 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=roxx990&style=flat-square&color=8B5CF6&label=Profile+views" alt="Profile views" />
 <a href="https://github.com/CoderZone"><img src="https://img.shields.io/badge/Working%20at-CoderZone-8B5CF6?style=flat-square&labelColor=555" alt="CoderZone" /></a>
 <a href="https://www.linkedin.com/in/zuraiz-ahmad/"><img src="https://img.shields.io/badge/LinkedIn-zuraiz--ahmad-8B5CF6?style=flat-square&labelColor=555&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
